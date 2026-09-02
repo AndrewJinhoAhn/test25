@@ -38,7 +38,7 @@
             <item name="Date" type_name="gh_date" type_code="8">639168081991406085</item>
             <item name="Description" type_name="gh_string" type_code="10"></item>
             <item name="KeepOpen" type_name="gh_bool" type_code="1">false</item>
-            <item name="Name" type_name="gh_string" type_code="10">wafflestructure.gh</item>
+            <item name="Name" type_name="gh_string" type_code="10">64904f14640944e581df149571c81cf9.ghx</item>
           </items>
           <chunks count="3">
             <chunk name="Revisions">
@@ -49,10 +49,10 @@
             <chunk name="Projection">
               <items count="2">
                 <item name="Target" type_name="gh_drawing_point" type_code="30">
-                  <X>285</X>
-                  <Y>-1458</Y>
+                  <X>43</X>
+                  <Y>-2586</Y>
                 </item>
-                <item name="Zoom" type_name="gh_single" type_code="5">1.0837501</item>
+                <item name="Zoom" type_name="gh_single" type_code="5">1.7647059</item>
               </items>
             </chunk>
             <chunk name="Views">
